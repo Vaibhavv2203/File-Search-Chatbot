@@ -1,0 +1,6 @@
+streamlit
+huggingface-hub
+llama-index-llms-huggingface-api
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-core-retrievers
